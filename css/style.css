@@ -1,0 +1,16 @@
+/* Airaso portfolio — kleuren uit de inspiratieopdracht: zwart, blauw en wit. */
+body {
+  background-color: #111111;
+  color: #FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+}
+
+/* Subtiele tinten zijn transparanties van wit, geen extra paletkleuren. */
+.soft-border { border-color: rgba(255, 255, 255, 0.18); }
+.muted-text { color: rgba(255, 255, 255, 0.82); }
+.subtle-text { color: rgba(255, 255, 255, 0.68); }
+
+
+html { scroll-behavior: smooth; }
+img { max-width: 100%; }
